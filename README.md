@@ -1,4 +1,4 @@
-# Restormer-Skff-SSA Denosing Network
+# Megvii Denosing Competation
 
 ### Table of contents
   * [Network Architecture](#network)
@@ -9,8 +9,8 @@
   
 <a id="network"></a>
 ## Network Architecture
-**Encoder-Decoder Residual Network (EDRN)**  
-![Overview of Network](network.png)
+**Restormer-Skff-SSA Denosing Network**  
+![](network.png)
 
 <a id="result"></a>
 ## MEGVII2022 Real Denosing Challenge Results  
