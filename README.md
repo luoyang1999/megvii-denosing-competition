@@ -10,7 +10,7 @@
 <a id="network"></a>
 ## Network Architecture
 **Restormer-Skff-SSA Denosing Network**  
-![Network Architecture](network.png)
+![Network Architecture](https://github.com/luoyang1999/megvii-denosing-competition/blob/main/network.png)
 
 <a id="result"></a>
 ## MEGVII2022 Real Denosing Challenge Results  
