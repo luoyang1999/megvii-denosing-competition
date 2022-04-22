@@ -1,4 +1,4 @@
-# Megvii Denosing Competation
+# The 4th Solution of Megvii2022 Denosing Competation
 
 ### Table of contents
   * [Network Architecture](#network)
@@ -13,7 +13,7 @@
 ![Network Architecture](https://github.com/luoyang1999/megvii-denosing-competition/blob/main/network.png)
 
 <a id="result"></a>
-## MEGVII2022 Real Denosing Challenge Results  
+## Real Denosing Challenge Results  
 **Quantitative Results**  
 
  Method | PSNR (dB) | Score
