@@ -10,7 +10,7 @@
 <a id="network"></a>
 ## Network Architecture
 **Encoder-Decoder Residual Network (EDRN)**  
-![Overview of Network](/network.png)
+![Overview of Network](network.png)
 
 <a id="result"></a>
 ## MEGVII2022 Real Denosing Challenge Results  
@@ -18,8 +18,7 @@
 
  Method | PSNR (dB) | Score
  :---------------:|:----------:|:---------:
- Baseline | 26.89 | 0.78 | --
- EDRN (ours) | 28.79 | 0.84 | 47.08
+ (ours) | 43.87 | 9.00
 
 <a id="dependencies"></a>
 # About Our Source Code & Trained Model
